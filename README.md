@@ -1,4 +1,4 @@
-Bayesian Inference using Markov Chain Monte Carlo (MTH707 Project)
+# Bayesian Inference using Markov Chain Monte Carlo (MTH707 Project)
 
 This repository contains my course project for MTH707: Markov Chain Monte Carlo at IIT Kanpur.
 The project explores the theoretical and practical aspects of MCMC algorithms with applications to Bayesian inference.
